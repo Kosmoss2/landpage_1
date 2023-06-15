@@ -8,10 +8,10 @@ Uma landpage de login so para exericicio de criatividade.
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #271e32 |
-| Cor exemplo       | ![#c04d67](https://via.placeholder.com/10/f8f8f8?text=+) #c04d67 |
-| Cor exemplo       | ![#792c4a](https://via.placeholder.com/10/00b48a?text=+) #792c4a |
-| Cor exemplo       | ![#948494](https://via.placeholder.com/10/00b48a?text=+) #948494 |
+| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/271e32?text=+) #271e32 |
+| Cor exemplo       | ![#c04d67](https://via.placeholder.com/10/c04d67?text=+) #c04d67 |
+| Cor exemplo       | ![#792c4a](https://via.placeholder.com/10/792c4a?text=+) #792c4a |
+| Cor exemplo       | ![#948494](https://via.placeholder.com/10/948494?text=+) #948494 |
 
 
 
