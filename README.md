@@ -41,6 +41,7 @@ Javascript, HTML, CSS...
 ## Licença
 
 ![License](https://choosealicense.com/licenses/mit/<SUBJECT>-<MIT>-<green>.svg)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 
 
